@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="[https://github.com/PutuReyvan/PutuReyvan/blob/main/City%20Of%20Houston%20Pixel%20Art%20GIF%20by%20Coog%20Mania.gif](https://media.giphy.com/media/3s6inaVnOnO6L3vbwR/giphy.gif?cid=ecf05e474jet1b3xjuzvrdf2ckf9fpnaoj9jjte4yzid52aw&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Header Image">
+  <img src="(https://media.giphy.com/media/3s6inaVnOnO6L3vbwR/giphy.gif?cid=ecf05e474jet1b3xjuzvrdf2ckf9fpnaoj9jjte4yzid52aw&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Header Image">
 </div>
+<br>
+
 # 💫 About Me:
 🧠An enthusiast fast learner<br>⚔️Currently trying out CTF and Cybersecurity<br>🌱A little bit knowledge into web developing<br>🐸Currently Studying at BINUS University
 
