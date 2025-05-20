@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://media.giphy.com/media/3s6inaVnOnO6L3vbwR/giphy.gif?cid=ecf05e474jet1b3xjuzvrdf2ckf9fpnaoj9jjte4yzid52aw&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Header Image">
+  <img src="Pixel Art Walking GIF by Raw Fury.gif" alt="Header Image">
 </div>
 <br>
 
