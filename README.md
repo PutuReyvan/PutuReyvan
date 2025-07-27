@@ -1,17 +1,34 @@
-<div align="center">
-  <img src="Pixel Art Walking GIF by Raw Fury.gif" alt="Header Image">
-</div>
-<br>
+# 👋 Hi, I'm PutuReyvan!
 
-# 💫 About Me:
-🧠An enthusiast fast learner<br>⚔️Currently trying out CTF and Cybersecurity<br>🌱A little bit knowledge into web developing<br>🐸Currently Studying at BINUS University
+### 🎓 Student | Aspiring Cybersecurity Professional
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PutuReyvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PutuReyvan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PutuReyvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💡 About Me
+I'm currently a student passionate about technology, programming, and cybersecurity. My journey has led me to explore a variety of languages and frameworks, and I'm dedicated to building a strong foundation as I pursue a career in cybersecurity.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Skills & Technologies
+
+- **Languages:** Python, C, JavaScript
+- **Frameworks:** React, React Native, Flutter, Express
+- **Cybersecurity Tools:** (Actively learning and experimenting!)
+
+---
+
+## 🎯 Career Motivation
+
+I am highly motivated to pursue a career in cybersecurity and am continually working to expand my knowledge in this field. Whether it’s mastering new tools or understanding the latest security trends, I’m excited for the challenges and opportunities ahead.
+
+---
+
+## 📈 What I'm Working On
+
+Currently focused on learning and experimenting with cybersecurity concepts, and strengthening my skills with projects using Python, C, and web/mobile frameworks.
+
+---
+
+<!--
+If you want to add social links or more personal touches, let me know!
+-->
