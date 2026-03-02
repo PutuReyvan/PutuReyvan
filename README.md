@@ -11,9 +11,9 @@ I'm currently a student passionate about technology, programming, and cybersecur
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, C, JavaScript
-- **Frameworks:** React, React Native, Flutter, Express
-- **Cybersecurity Tools:** (Actively learning and experimenting!)
+- **Languages:** Python, C, JavaScript, Typescript
+- **Frameworks:** React, React Native, Next js, Flutter, Express
+- **Cybersecurity Tools:** Burpsuite,
 
 ---
 
